@@ -1,0 +1,2014 @@
+[
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_battery.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/battery.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_lock.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/lock.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_employee.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/xml_setserver.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/xml/setserver.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_employees.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/employees.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_primary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_listview_signitem.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/listview_signitem.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_icon_geo.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/icon_geo.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_view_details.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/view_details.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_admin.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/admin.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_stop.wav.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/stop.wav"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_utilities.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_utilities.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_list.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/list.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_download.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/download.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_captureex.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_captureex.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_about.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_listview_personitem.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/listview_personitem.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_beep.ogg.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_out_to_left.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_reload.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/reload.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_laser.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_laser.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_photo_pressed.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_list_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_fingerprint.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/fingerprint.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_tab_indicator_ab_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/tab_indicator_ab_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_change_user.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/change_user.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_lines.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_rfid.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/rfid.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_selectable_background_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/selectable_background_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_payment.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_key.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/key.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_download1.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/download1.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_list_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_fingerprint.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_fingerprint.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_bg_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_checked_user.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/checked_user.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_dong.wav.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/dong.wav"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_spinner_background_ab_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/spinner_background_ab_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_btnyn.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/btnyn.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_button_style_red.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/button_style_red.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_scan_flashlight.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/scan_flashlight.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_btnyns.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/btnyns.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_bg_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_mcuser.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/mcuser.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_bluetooth.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/bluetooth.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_dtmfstar.wav.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/dtmfstar.wav"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_mlist.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/mlist.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_fingerh.jpg.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/fingerh.jpg"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bg_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_history_pressed.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_history_pressed.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_primary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_photo_normal.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_photo_normal.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_admin.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_admin.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_system.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/system.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_listview_empitem.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/listview_empitem.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_primary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_corner_top_right.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_corner_top_right.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_corner_bottom_right.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_list_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_speaker.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/speaker.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_logon.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_logon.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_mgroup.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/mgroup.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_pause.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_sign_local.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_sign_local.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_flashlight_normal.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_flashlight_normal.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_guest.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/guest.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_list_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_enroll.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/enroll.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_start.wav.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/start.wav"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_listview_menuitem.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/listview_menuitem.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_printer.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/printer.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_dialog_postdata.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/dialog_postdata.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_history_normal.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_history_normal.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_utilities.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/utilities.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_scan_photo.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/scan_photo.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_primary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/progress_primary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_ab_background_textured_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/ab_background_textured_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_dialog_updateapp.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/dialog_updateapp.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_hibernate.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/hibernate.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/raw_dtmfpound.wav.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/raw/dtmfpound.wav"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_generate.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/generate.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_upload.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/upload.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_system.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_system.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_fail.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_fail.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_list_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/list_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_engineering.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/engineering.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_texture_tile_fgtit.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ab_texture_tile_fgtit.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_selected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_list_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_wifi.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_flashlight_pressed.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_processor.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/processor.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_transparent_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ab_transparent_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_police.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/police.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_barcode.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/barcode.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_selected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_bottom_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ab_bottom_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_dna_helix.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/dna_helix.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_hail.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/hail.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_restart.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/restart.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_btn_cab_done_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/btn_cab_done_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_disabled_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/spinner_ab_disabled_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_sign_off.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/sign_off.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_corner_bottom_left.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_employee.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/employee.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_in_from_left.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/btn_cab_done_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/ab_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_list_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_secondary_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/progress_secondary_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_in_from_right.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_enroll.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_enroll.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/spinner_ab_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_default_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/btn_cab_done_default_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_group.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/group.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_employees.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_employees.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_dialog_enrolfinger.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/dialog_enrolfinger.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_upload1.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/upload1.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_records.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_records.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_focused_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_unselected_focused_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_item_transaction.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bg_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/progress_bg_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_records.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/records.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_capture.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/anim_out_to_right.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/tab_selected_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_services.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/services.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/spinner_ab_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_sign_remote.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_sign_remote.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/tab_unselected_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_msign.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/msign.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_usb.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/usb.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_menu_dropdown_panel_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/menu_dropdown_panel_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_progress_horizontal_fgtit.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/progress_horizontal_fgtit.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_stacked_solid_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/ab_stacked_solid_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_cab_background_top_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/cab_background_top_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_webcam.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/webcam.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_dashboard.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/dashboard.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_mabout.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/mabout.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_msystem.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/msystem.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable_fingern.jpg.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable/fingern.jpg"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_camera_activity.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/camera_activity.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb_unfocus.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/thumb_unfocus.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_activity_brcapture.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/layout/activity_brcapture.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cab_background_bottom_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xxhdpi/cab_background_bottom_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_scan_corner_top_left.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-hdpi/scan_corner_top_left.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/menu_sign_on.xml.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/menu/sign_on.xml"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_list_pressed_fgtit.9.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-mdpi/list_pressed_fgtit.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    }
+]

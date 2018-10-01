@@ -1,0 +1,4 @@
+#Mon Oct 01 01:01:15 BST 2018
+base.0=/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/transforms/dexMerger/debug/57
+path.0=classes.dex
+renamed.0=classes.dex

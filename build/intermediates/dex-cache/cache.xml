@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_6e52c390887a9bd409b65f75540b5d26dfa52bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\jackson-core-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05f2bfd0866bcacbcc7c25ce25f80b5aeed0f72f">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.0_4b4721ff2051521746d932ca330372dbbfc0ebc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_4d639f1895694b180dae180613638488c1665c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\locSDK_4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\locSDK_4.2_c7dda7261135386a1ad6642434e2d8f73841f40d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_790083f6b5a38151791010160568249739b5c5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\baidumapapi_v3_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd80439473ff6e0e9ae45f95af48302271e1e45e">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_1_1_0fe921b22a05e2888e484b276ce3f3a9b1fc7ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_8d6a1e8452ae1d2b7b26b505bec5700ca18681c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kim\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\all\onePass-Seven\OnePass-Compatible-Seven-AS\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_32c98b4834fa3194f49be71df932da70dd2343a8.jar" />
+    </item>
+
+</items>
