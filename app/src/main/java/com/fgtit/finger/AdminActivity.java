@@ -4,7 +4,6 @@ package com.fgtit.finger;
 import com.fgtit.app.ActivityList;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
@@ -24,7 +23,7 @@ public class AdminActivity extends AppCompatActivity {
 
 		this.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 		
-		editText=(EditText)findViewById(R.id.editText1);
+		editText=(EditText)findViewById(R.id.editTextId);
 		editText.setText(ActivityList.getInstance().PassWord);
 	}
 

@@ -226,7 +226,7 @@ public class EmployeesActivity extends AppCompatActivity {
 				this.finish();
 				return true;
 			case R.id.action_enroll:{
-					Intent intent = new Intent(EmployeesActivity.this, EnrollActivity.class);
+					Intent intent = new Intent(EmployeesActivity.this, EnrollbeneficiaryActivity.class);
 					startActivityForResult(intent,0);
 				}				
 				return true;

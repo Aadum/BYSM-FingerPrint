@@ -1,7 +1,6 @@
 package com.fgtit.finger;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.PowerManager;
@@ -74,8 +73,8 @@ public class LoginActivity extends AppCompatActivity {
 			}
 		});
 		
-		editText1=(EditText)findViewById(R.id.editText1);
-		editText2=(EditText)findViewById(R.id.editText2);
+		editText1=(EditText)findViewById(R.id.editTextId);
+		editText2=(EditText)findViewById(R.id.editTextFirstname);
 		editText1.setText("admin");
 	}
 	

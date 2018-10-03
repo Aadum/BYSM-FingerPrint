@@ -4,20 +4,30 @@
             "outputFile": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
-                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/values-es/values-es.xml",
+                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/534461063a9a4f9b2113e3245812a82d/res/values-es/values-es.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "280,397,505,628,741,849,934,1035,1163,1245,1352,1452,1551,1659,1766,1873,1995,2095",
-                        "endColumns": "116,107,122,112,107,84,100,127,81,106,99,98,107,106,106,121,99,100",
-                        "endOffsets": "392,500,623,736,844,929,1030,1158,1240,1347,1447,1546,1654,1761,1868,1990,2090,2191"
-                    },
-                    "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,172,280,403,516,624,709,810,938,1020,1127,1227,1326,1434,1541,1648,1770,1870",
-                        "endColumns": "116,107,122,112,107,84,100,127,81,106,99,98,107,106,106,121,99,100",
-                        "endOffsets": "167,275,398,511,619,704,805,933,1015,1122,1222,1321,1429,1536,1643,1765,1865,1966"
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,1893",
+                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,1970"
+                    }
+                },
+                {
+                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db498d8bdd26a54c7fd9cbb4e5f69cdb/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1975",
+                        "endColumns": "100",
+                        "endOffsets": "2071"
                     }
                 }
             ]

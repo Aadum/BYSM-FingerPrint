@@ -30,7 +30,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.FLASHLIGHT" />
     <uses-permission android:name="android.permission.NFC" />
-    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE"></uses-permission>
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
 
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
@@ -39,6 +39,7 @@
         android:required="true" />
 
     <application
+        android:name=".CctApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
@@ -51,7 +52,7 @@
         <service
             android:name="com.baidu.location.f"
             android:enabled="true"
-            android:process=":remote"></service>
+            android:process=":remote" />
         <!-- USB连接指定接受广播的类 -->
         <receiver android:name="com.fgtit.service.UsbBroadcastReceiver">
             <intent-filter>
@@ -60,99 +61,107 @@
             </intent-filter>
         </receiver>
         <!-- USB虚拟网络指定服务类 -->
-        <service android:name="com.fgtit.service.ConnectService"></service>
+        <service android:name="com.fgtit.service.ConnectService" />
         <!-- 界面 -->
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:screenOrientation="portrait">
-
-
-        </activity>
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login"
             android:screenOrientation="portrait">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
 
 
         </activity>
         <activity
             android:name=".MenuActivity"
             android:label="@string/title_activity_menu"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".SignOnActivity"
             android:configChanges="keyboardHidden|screenSize|orientation"
             android:label="@string/title_activity_sign_on"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".SignOffActivity"
             android:configChanges="keyboardHidden|screenSize|orientation"
             android:label="@string/title_activity_sign_off"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".RecordsActivity"
             android:label="@string/title_activity_records"
             android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateUnchanged"></activity>
+            android:windowSoftInputMode="stateUnchanged" />
         <activity
             android:name=".EmployeesActivity"
             android:label="@string/title_activity_employees"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".EmployeeActivity"
             android:label="@string/title_activity_employee"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".CameraExActivity"
             android:label="@string/title_activity_capturephoto"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".UtilitiesActivity"
             android:label="@string/title_activity_utilities"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".SystemActivity"
             android:label="@string/title_activity_system"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".SettingsActivity"
             android:label="@string/title_activity_settings"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name="android.scanner.CaptureActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".DeviceListActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label="@string/title_select_device"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".EnrollActivity"
             android:label="@string/title_activity_enroluser"
             android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateUnchanged"></activity>
+            android:windowSoftInputMode="stateUnchanged" />
         <activity
             android:name=".CameraActivity"
             android:label="@string/title_activity_capturephoto"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AdminActivity"
             android:label="@string/title_activity_admin"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AboutActivity"
             android:label="@string/title_activity_about"
-            android:screenOrientation="portrait"></activity>
-        <activity android:name=".PaymentActivity"></activity>
+            android:screenOrientation="portrait" />
+        <activity android:name=".PaymentActivity" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:label="@string/app_name"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".ItemsActivity"
+            android:label="My Title"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EnrollbeneficiaryActivity"></activity>
     </application>
 
 </manifest>

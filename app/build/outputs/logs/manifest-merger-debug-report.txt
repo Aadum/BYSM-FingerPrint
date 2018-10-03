@@ -1,11 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-158:12
-INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-158:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/95ca2386d2c35ef63b09522d729e2675/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cca2e680abef9f34c9b0d0301afa2773/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-158:12
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-167:12
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d6806b92e93f2f1872294806006b54e/AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:android-adapters:3.0.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/1e44b4e20ee8a3dae9fe69e71a774b70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1584ba66028b946eee5d6979fe5f505c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/534461063a9a4f9b2113e3245812a82d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/76d0d6e13a1675476bec78be48a54e28/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2a82561ae2209bb38f7fb1e99591939/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5af11db158f3d87ae90b3e1d79ed10ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b2b4a49a5270ff0fb306cba7ff54c73e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0949c861a07e8f8c41242f42ff82dbf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/340f5465785abb1db4d85d3310f4d8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ff82713b6d9f6038768221077322688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/65f5cc82a6c113217a7645cd3690488a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/09ebcc6b6d981bc27f61570448568132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/873ec99c45c24729b9ef8024e3070839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db498d8bdd26a54c7fd9cbb4e5f69cdb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4ecc6c0b727d24ff08be75da2139a6d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/277f4e8acff49213669dd9ad3e828d14/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57eb9ec923571647c07e8e5d394bc2b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/27ac2342c2fd04097f82327f2b627a46/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:1-167:12
 	package
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:4:5-31
 		INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
@@ -16,6 +33,8 @@ INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/ap
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:10:5-79
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:10:5-79
 	android:name
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.CHANGE_NETWORK_STATE
@@ -84,6 +103,8 @@ ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/s
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:22:22-77
 uses-permission#android.permission.INTERNET
 ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:23:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:23:22-64
 uses-permission#com.android.launcher.permission.READ_SETTINGS
@@ -111,7 +132,7 @@ ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/s
 	android:name
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:32:22-59
 uses-permission#android.permission.BAIDU_LOCATION_SERVICE
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:33:5-97
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:33:5-81
 	android:name
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:33:22-78
 uses-feature#android.hardware.camera
@@ -129,235 +150,287 @@ ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/s
 	android:name
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:38:9-44
 application
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:41:5-156:19
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/95ca2386d2c35ef63b09522d729e2675/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/95ca2386d2c35ef63b09522d729e2675/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cca2e680abef9f34c9b0d0301afa2773/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cca2e680abef9f34c9b0d0301afa2773/AndroidManifest.xml:9:5-20
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:41:5-165:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d6806b92e93f2f1872294806006b54e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d6806b92e93f2f1872294806006b54e/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:44:9-41
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:45:9-41
 	android:icon
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:43:9-45
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:44:9-45
 	android:allowBackup
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:42:9-35
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:43:9-35
 	android:theme
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:45:9-43
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:46:9-43
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:42:9-39
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:46:9-48:56
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:47:9-49:56
 	android:value
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:48:13-53
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:49:13-53
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:47:13-52
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:48:13-52
 service#com.baidu.location.f
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:51:9-54:49
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:52:9-55:41
 	android:process
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:54:13-38
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:55:13-38
 	android:enabled
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:53:13-35
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:54:13-35
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:52:13-48
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:53:13-48
 receiver#com.fgtit.service.UsbBroadcastReceiver
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:56:9-61:20
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:57:9-62:20
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:56:19-72
-intent-filter#NotifyUsbStartNet+NotifyUsbStopNet
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:57:13-60:29
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:57:19-72
+intent-filter#action:name:NotifyUsbStartNet+action:name:NotifyUsbStopNet
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:58:13-61:29
 action#NotifyUsbStartNet
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:58:17-60
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:59:17-60
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:58:25-57
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:59:25-57
 action#NotifyUsbStopNet
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:59:17-59
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:60:17-59
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:59:25-56
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:60:25-56
 service#com.fgtit.service.ConnectService
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:63:9-76
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:64:9-68
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:63:18-65
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:64:18-65
 activity#com.fgtit.finger.MainActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:65:9-71:20
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:66:9-69:61
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:68:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:69:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:67:13-45
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:68:13-45
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:66:13-41
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:67:13-41
 activity#com.fgtit.finger.LoginActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:72:9-83:20
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:70:9-76:20
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:75:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:73:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:74:13-57
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:72:13-57
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:73:13-42
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:76:13-80:29
-action#android.intent.action.MAIN
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:77:17-69
-	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:77:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:79:17-77
-	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:79:27-74
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:71:13-42
 activity#com.fgtit.finger.MenuActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:84:9-87:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:77:9-80:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:87:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:80:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:86:13-56
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:79:13-56
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:85:13-41
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:78:13-41
 activity#com.fgtit.finger.SignOnActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:88:9-92:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:81:9-85:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:92:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:85:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:91:13-59
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:84:13-59
 	android:configChanges
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:90:13-74
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:83:13-74
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:89:13-43
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:82:13-43
 activity#com.fgtit.finger.SignOffActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:93:9-97:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:86:9-90:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:97:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:90:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:96:13-60
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:89:13-60
 	android:configChanges
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:95:13-74
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:88:13-74
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:94:13-44
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:87:13-44
 activity#com.fgtit.finger.RecordsActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:98:9-102:69
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:91:9-95:60
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:101:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:94:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:100:13-59
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:93:13-59
 	android:windowSoftInputMode
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:102:13-57
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:95:13-57
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:99:13-44
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:92:13-44
 activity#com.fgtit.finger.EmployeesActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:103:9-106:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:96:9-99:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:106:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:99:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:105:13-61
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:98:13-61
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:104:13-46
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:97:13-46
 activity#com.fgtit.finger.EmployeeActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:107:9-110:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:100:9-103:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:110:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:103:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:109:13-60
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:102:13-60
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:108:13-45
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:101:13-45
 activity#com.fgtit.finger.CameraExActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:111:9-114:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:104:9-107:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:114:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:107:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:113:13-64
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:106:13-64
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:112:13-45
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:105:13-45
 activity#com.fgtit.finger.UtilitiesActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:115:9-118:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:108:9-111:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:118:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:111:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:117:13-61
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:110:13-61
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:116:13-46
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:109:13-46
 activity#com.fgtit.finger.SystemActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:119:9-122:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:112:9-115:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:122:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:115:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:121:13-58
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:114:13-58
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:120:13-43
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:113:13-43
 activity#com.fgtit.finger.SettingsActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:123:9-126:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:116:9-119:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:126:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:119:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:125:13-60
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:118:13-60
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:124:13-45
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:117:13-45
 activity#android.scanner.CaptureActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:127:9-132:72
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:120:9-125:63
+	android:screenOrientation
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:123:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:125:13-60
+	android:configChanges
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:122:13-63
+	android:theme
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:124:13-71
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:121:13-59
+activity#com.fgtit.finger.DeviceListActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:126:9-130:52
 	android:screenOrientation
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:130:13-49
-	android:windowSoftInputMode
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:132:13-60
-	android:configChanges
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:129:13-63
-	android:theme
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:131:13-71
-	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:128:13-59
-activity#com.fgtit.finger.DeviceListActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:133:9-137:61
-	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:137:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:136:13-56
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:129:13-56
 	android:configChanges
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:135:13-63
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:128:13-63
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:134:13-47
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:127:13-47
 activity#com.fgtit.finger.EnrollActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:138:9-142:69
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:131:9-135:60
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:141:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:134:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:140:13-61
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:133:13-61
 	android:windowSoftInputMode
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:135:13-57
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:132:13-43
+activity#com.fgtit.finger.CameraActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:138:13-64
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:137:13-43
+activity#com.fgtit.finger.AdminActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:140:9-143:52
+	android:screenOrientation
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:143:13-49
+	android:label
 		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:142:13-57
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:139:13-43
-activity#com.fgtit.finger.CameraActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:143:9-146:61
-	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:146:13-49
-	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:145:13-64
-	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:144:13-43
-activity#com.fgtit.finger.AdminActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:147:9-150:61
-	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:150:13-49
-	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:149:13-57
-	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:148:13-42
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:141:13-42
 activity#com.fgtit.finger.AboutActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:151:9-154:61
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:144:9-147:52
 	android:screenOrientation
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:154:13-49
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:147:13-49
 	android:label
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:153:13-57
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:146:13-57
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:152:13-42
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:145:13-42
 activity#com.fgtit.finger.PaymentActivity
-ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:155:9-62
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:148:9-53
 	android:name
-		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:155:19-50
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:148:19-50
+activity#com.fgtit.finger.WelcomeActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:149:9-159:20
+	android:label
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:151:13-45
+	android:noHistory
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:152:13-37
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:150:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:153:13-157:29
+action#android.intent.action.MAIN
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:154:17-69
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:154:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:156:17-77
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:156:27-74
+activity#com.fgtit.finger.ItemsActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:160:9-163:59
+	android:label
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:162:13-37
+	android:theme
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:163:13-56
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:161:13-42
+activity#com.fgtit.finger.EnrollbeneficiaryActivity
+ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:164:9-72
+	android:name
+		ADDED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml:164:19-60
 uses-sdk
 INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/95ca2386d2c35ef63b09522d729e2675/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/95ca2386d2c35ef63b09522d729e2675/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cca2e680abef9f34c9b0d0301afa2773/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cca2e680abef9f34c9b0d0301afa2773/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/4ce19bd2262e6c181d7691960fdb89e7/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d6806b92e93f2f1872294806006b54e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Koko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d6806b92e93f2f1872294806006b54e/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/1e44b4e20ee8a3dae9fe69e71a774b70/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/android-adapters-3.0.0.aar/1e44b4e20ee8a3dae9fe69e71a774b70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1584ba66028b946eee5d6979fe5f505c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1584ba66028b946eee5d6979fe5f505c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/534461063a9a4f9b2113e3245812a82d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/534461063a9a4f9b2113e3245812a82d/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/76d0d6e13a1675476bec78be48a54e28/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/76d0d6e13a1675476bec78be48a54e28/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2a82561ae2209bb38f7fb1e99591939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2a82561ae2209bb38f7fb1e99591939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5af11db158f3d87ae90b3e1d79ed10ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5af11db158f3d87ae90b3e1d79ed10ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b2b4a49a5270ff0fb306cba7ff54c73e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b2b4a49a5270ff0fb306cba7ff54c73e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0949c861a07e8f8c41242f42ff82dbf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0949c861a07e8f8c41242f42ff82dbf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/340f5465785abb1db4d85d3310f4d8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/340f5465785abb1db4d85d3310f4d8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ff82713b6d9f6038768221077322688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ff82713b6d9f6038768221077322688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/65f5cc82a6c113217a7645cd3690488a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/65f5cc82a6c113217a7645cd3690488a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/09ebcc6b6d981bc27f61570448568132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/09ebcc6b6d981bc27f61570448568132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/873ec99c45c24729b9ef8024e3070839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/873ec99c45c24729b9ef8024e3070839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db498d8bdd26a54c7fd9cbb4e5f69cdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Koko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db498d8bdd26a54c7fd9cbb4e5f69cdb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4ecc6c0b727d24ff08be75da2139a6d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4ecc6c0b727d24ff08be75da2139a6d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/277f4e8acff49213669dd9ad3e828d14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/277f4e8acff49213669dd9ad3e828d14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57eb9ec923571647c07e8e5d394bc2b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57eb9ec923571647c07e8e5d394bc2b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/27ac2342c2fd04097f82327f2b627a46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Koko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/27ac2342c2fd04097f82327f2b627a46/AndroidManifest.xml:20:5-44
 INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

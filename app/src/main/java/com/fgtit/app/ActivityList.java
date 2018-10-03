@@ -125,6 +125,6 @@ public class ActivityList {
 		MapLat=Double.parseDouble(sp.getString("MapLat","22.653393"));
 		MapLng=Double.parseDouble(sp.getString("MapLng","114.057853"));
 		
-		DeviceSN=((TelephonyManager) pcontext.getSystemService(Context.TELEPHONY_SERVICE)).getDeviceId();
+//		DeviceSN=((TelephonyManager) pcontext.getSystemService(Context.TELEPHONY_SERVICE)).getDeviceId();
 	}
 }

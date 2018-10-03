@@ -161,5 +161,7 @@
     <color name="viewfinder_mask">#00000000</color>
     <color name="capture_text_cover_bg">#99535353</color>
     <color name="seek_bar_text">#fff6f6f6</color>
-    
+	<color name="colorPrimary">#3F51B5</color>
+	<color name="colorPrimaryDark">#303F9F</color>
+	<color name="colorAccent">#FF4081</color>
 </resources>

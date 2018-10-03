@@ -4,7 +4,6 @@ import com.fgtit.data.GlobalData;
 
 import android.annotation.SuppressLint;
 import android.app.ActionBar.LayoutParams;
-import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -37,7 +36,7 @@ public class RecordsActivity extends AppCompatActivity {
 		this.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 		
 		txCount=(TextView)findViewById(R.id.textView2);
-		qyText=(EditText)findViewById(R.id.editText1);
+		qyText=(EditText)findViewById(R.id.editTextId);
 		
 		//����
 		final Spinner spin1=(Spinner)findViewById(R.id.spinner1);

@@ -4,20 +4,30 @@
             "outputFile": "/Users/Koko/Downloads/FP 07/OnePass/OnePass-Compatible-Seven-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
-                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/61d94a67b961c04d4933b4e7fb5a4028/res/values-sv/values-sv.xml",
+                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db498d8bdd26a54c7fd9cbb4e5f69cdb/res/values-sv/values-sv.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "280,386,494,617,720,831,916,1018,1131,1211,1317,1417,1513,1618,1720,1822,1939,2041",
-                        "endColumns": "105,107,122,102,110,84,101,112,79,105,99,95,104,101,101,116,101,100",
-                        "endOffsets": "381,489,612,715,826,911,1013,1126,1206,1312,1412,1508,1613,1715,1817,1934,2036,2137"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1903",
+                        "endColumns": "100",
+                        "endOffsets": "1999"
+                    }
+                },
+                {
+                    "source": "/Users/Koko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/534461063a9a4f9b2113e3245812a82d/res/values-sv/values-sv.xml",
+                    "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,161,269,392,495,606,691,793,906,986,1092,1192,1288,1393,1495,1597,1714,1816",
-                        "endColumns": "105,107,122,102,110,84,101,112,79,105,99,95,104,101,101,116,101,100",
-                        "endOffsets": "156,264,387,490,601,686,788,901,981,1087,1187,1283,1388,1490,1592,1709,1811,1912"
+                        "startOffsets": "105,211,314,425,510,612,725,801,877,957,1063,1163,1259,1364,1466,1568,1722,1824",
+                        "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
+                        "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,1898"
                     }
                 }
             ]

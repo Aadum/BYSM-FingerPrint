@@ -1,7 +1,6 @@
 package com.fgtit.finger;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.app.Dialog;
@@ -22,7 +21,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.os.PowerManager;
-import android.scanner.CaptureActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -44,7 +42,6 @@ import com.fgtit.app.ActivityList;
 import com.fgtit.data.GlobalData;
 import com.fgtit.data.UserItem;
 import com.fgtit.fpcore.FPMatch;
-import com.fgtit.utils.ExtApi;
 import com.fgtit.utils.ToastUtil;
 
 import java.io.ByteArrayOutputStream;
@@ -132,11 +129,12 @@ public class EnrollActivity extends AppCompatActivity {
 
         this.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        editText1 = (EditText) findViewById(R.id.editText1);
+        editText1 = (EditText) findViewById(R.id.editTextId);
 
-        editText2 = (EditText) findViewById(R.id.editText2);
+        editText2 = (EditText) findViewById(R.id.editTextFirstname);
         editText6 = (EditText) findViewById(R.id.editText6);
         editText7 = (EditText) findViewById(R.id.editText7);
+
 //        editText8 = (EditText) findViewById(R.id.editText8);
 //        editText9 = (EditText) findViewById(R.id.editText9);
         editText10 = (EditText) findViewById(R.id.editText10);
